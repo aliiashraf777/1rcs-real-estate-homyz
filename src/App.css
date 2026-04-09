@@ -1,0 +1,27 @@
+.App {
+    position: relative;
+    overflow-x: clip;
+}
+
+/* .App:nth-child(1) { */
+.gradient-wrapper {
+    position: relative;
+    top: 10%;
+    background-color: var(--black);
+}
+
+.white-gradient {
+    position: absolute;
+    top: 15%;
+    width: 20rem;
+    height: 20rem;
+    background: rgba(255, 255, 255, 0.522);
+    filter: blur(100px);
+    border-radius: 100px;
+    z-index: 0;
+}
+
+.heightDiv {
+    width: 100%;
+    height: 400px;
+}

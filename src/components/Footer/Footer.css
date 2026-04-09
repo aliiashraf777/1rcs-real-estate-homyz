@@ -1,0 +1,63 @@
+.f-container {
+    justify-content: space-between;
+}
+
+.f-logo {
+    gap: 1rem;
+}
+
+.f-links {
+    gap: 1rem;
+}
+
+.f-menu {
+    gap: 1.5rem;
+    /* margin-top: 1.5rem; */
+    font-weight: 500;
+    list-style: none;
+}
+
+.f-menuCenter {
+    display: flex;
+}
+
+.f-menu li {
+    color: rgb(140, 139, 139);
+    font-weight: 400;
+    transition: all 300ms ease-in;
+}
+
+.f-menu li:hover {
+    color: var(--blue);
+    transform: translateY(-0.7px);
+}
+
+.f-menuEnd {
+    display: none;
+}
+
+
+@media (max-width: 640px) {
+
+    .f-container {
+        justify-content: center;
+    }
+
+    .f-logo {
+        align-items: center;
+        text-align: center;
+    }
+
+    .f-links {
+        align-items: center;
+        text-align: center;
+    }
+
+    .f-menuCenter {
+        display: none;
+    }
+
+    .f-menuEnd {
+        display: flex;
+    }
+}
