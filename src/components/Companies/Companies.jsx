@@ -8,6 +8,7 @@ const Companies = () => {
                 <img src="/assets/tower.png" alt="" />
                 <img src="/assets/equinix.png" alt="" />
                 <img src="/assets/realty.png" alt="" />
+                
             </div>
         </section>
     )
