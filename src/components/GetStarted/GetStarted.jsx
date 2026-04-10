@@ -1,6 +1,6 @@
 import './GetStarted.css'
 
-const GetStarted = () => {
+const GetStarted = () => { 
     return (
         <section className="g-wrapper">
             <div className="g-container innerWidth paddings">
