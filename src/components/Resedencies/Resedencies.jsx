@@ -15,7 +15,7 @@ const Resedencies = () => {
                 <div className="r-head flexColStart">
                     <h3 className='orangeText'>Best Choices</h3>
                     <h2 className='primaryText'>Popular Residencies</h2>
-
+ 
                     {/* <SliderButtons /> */}
                     <SliderButtons swiperRef={swiperRef} />
                 </div>
