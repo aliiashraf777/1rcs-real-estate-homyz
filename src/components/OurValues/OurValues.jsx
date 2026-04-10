@@ -25,7 +25,7 @@ const OurValues = () => {
                 {/* <div className="v-content flexColStart"> */}
                 <div className="v-content">
                     <div className="flexColStart">
-                        <h4 className='orangeText'>Our Value</h4>
+                        <h4 className='orangeText'>Our Values</h4>
                         <h3 className='primaryText'>Value We Give to You</h3>
                         <p className='secondaryText'>We always ready to help by providijng the best services for you. <br />
                             We beleive a good blace to live can make your life better
