@@ -10,7 +10,9 @@ const ContactUs = () => {
                 {/* left content */}
                 <div className="c-content flexColStart">
                     <h4 className='orangeText'>Contact Us</h4>
+                    
                     <h3 className='primaryText'>Easy to contact us</h3>
+
                     <p className='secondaryText'>We always ready to help by providijng the best services for you. We beleive a good blace to live can make your life better
                     </p>
 
