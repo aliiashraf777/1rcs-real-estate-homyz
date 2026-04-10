@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './header.css'
 import { BiMenuAltRight } from 'react-icons/bi';
-import OutsideClickHandler from 'react-outside-click-handler';
+import OutsideClickHandler from 'react-outside-click-handler'; 
 
 
 const header = () => {
