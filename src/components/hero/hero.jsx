@@ -12,7 +12,7 @@ const home = () => {
                     <div className="hero-title">
                         <div className="orange-circle"></div>
                         <h1>Discover <br />Most Suitable <br /> Property</h1>
-                    </div>
+                    </div> 
 
                     <div className="hero-desc flexColStart">
                         <span className='secondaryText'>Find a variety of properties that suit you very easilty</span>
