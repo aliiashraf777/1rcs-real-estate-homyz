@@ -49,16 +49,16 @@ It allows users to explore listings, navigate smoothly, and interact through a f
 - 🎯 Scalable structure  
 
 ## 📸 Project Preview  
-### 🖥️ Desktop  
-![Desktop](./public/assets/desktop.png)
 <p align="center">
   <img src="https://github.com/aliiashraf777/1rcs-real-estate-homyz/blob/main/src/assets/1homyzFullPreview.png" />
 </p>
 
+<!-- 
+### 🖥️ Desktop  
+
 ### 📱 Mobile  
 ![Mobile](./public/assets/mobile.png)
 
-<!-- 
 ## 🎬 Demo  
 ![Demo](./public/assets/demo.gif)
 -->
@@ -81,7 +81,7 @@ npm run dev
 ```
 
 ## 🔗 Live Demo  
-https://your-live-link.com  
+https://1rcs-real-estate-homyz.vercel.app/
 
 ## 💻 Repository  
 https://github.com/aliiashraf777/1rcs-real-estate-homyz  
