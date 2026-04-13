@@ -31,12 +31,6 @@ It allows users to explore listings, navigate smoothly, and interact through a f
 - ⚡ Fast performance  
 - 🎨 Smooth UI animations  
 
-## ✨ Features in Detail  
-- 🎠 Carousel-based property showcase  
-- 🔍 Structured navigation  
-- ⚡ Optimized component rendering  
-- 🎨 Tailwind-based design system  
-
 ## 🛠 Tech Stack  
 - ⚛️ React.js  
 - 🎨 Tailwind CSS  
@@ -63,11 +57,9 @@ It allows users to explore listings, navigate smoothly, and interact through a f
 ## 📂 Folder Structure  
 ```text
 src/
-├── components/
-├── sections/
-├── hooks/
-├── utils/
 ├── assets/
+├── components/
+├── utils/
 └── App.jsx
 ```
 
